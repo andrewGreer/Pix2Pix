@@ -1,4 +1,5 @@
 import config
+from helpers import normal_init
 
 class discriminator(nn.Module):
   # initializers
